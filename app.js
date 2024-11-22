@@ -71,7 +71,7 @@ const connectDB = async () => {
 
 
 //port 
-const PORT=process.env.PORT || 5000
+const PORT=11000
 //middleware
 
 app.get("/",(req,res)=>{
